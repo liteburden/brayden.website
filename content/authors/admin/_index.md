@@ -18,5 +18,5 @@ organizations:
 superuser: true
 status:
   icon: ☕️
-avatar_filename: iconitems_flashlight.webp
+avatar_filename: avatar.png
 ---
