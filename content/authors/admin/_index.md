@@ -18,4 +18,5 @@ organizations:
 superuser: true
 status:
   icon: ☕️
+avatar_filename: https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c3/IconItems_flashlight.png/revision/latest/scale-to-width-down/256?cb=20160911064828
 ---
